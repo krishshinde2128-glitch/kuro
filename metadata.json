@@ -1,0 +1,6 @@
+{
+  "name": "Kuro — Desk Guardian",
+  "description": "An interactive 2D productivity pet and cyber-cat desk companion powered by structured intelligence that tracks your focus, habits, and Focus Coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
